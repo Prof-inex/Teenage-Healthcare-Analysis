@@ -1,0 +1,1 @@
+This project analyzes a healthcare dataset obtained from Kaggle to uncover patterns specifically related to teenage patients (ages 13–19). The dataset originally includes 55,500 records, from which 1,693 teenage entries were extracted and analyzed.
